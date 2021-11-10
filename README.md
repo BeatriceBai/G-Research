@@ -8,3 +8,6 @@ Cryptocurrencies have become an extremely popular and volatile market, deliverin
 Cryptocurrencies are traded extensively across crypto-exchanges, with an average volume of $41 billion traded daily over the last year, according to CryptoCompare (as of 25th July 2021). 
 
 **Changes in prices between different cryptocurrencies are highly interconnected**. For example, Bitcoin has historically been a major driver of price changes across cryptocurrencies but other coins also impact the market.  
+
+
+Now I add some new lines.
